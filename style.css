@@ -25,19 +25,16 @@ body {
 .upperSection {
   position: relative;
   display: flex;
-  /* border: 2px solid red; */
 }
 
 .upperSection img {
   position: relative;
-  /* top: -0.7rem; */
   left: 10rem;
   width: 200px;
   height: 100px;
 }
 
 .navigationLinks {
-  /* border: 2px solid red; */
   position: relative;
   top: 1.5rem;
   left: 62vw;
@@ -282,7 +279,6 @@ li:hover {
   margin-top: 4rem;
   margin-left: 0rem;
   font-weight: bolder;
-  /* border: 2px solid red; */
 }
 
 .section2 img {
@@ -290,7 +286,6 @@ li:hover {
   width: 35vw;
   margin-left: 8rem;
   margin-top: 2rem;
-  /* border: 2px solid red; */
 }
 
 .box {
@@ -309,7 +304,6 @@ li:hover {
 }
 
 .box img {
-  /* border: 2px solid red; */
   width: 3.7rem;
   margin-left: 11rem;
   margin-bottom: 2rem;
@@ -319,7 +313,6 @@ li:hover {
 .box .desc {
   display: flex;
   flex-direction: column;
-  /* border: 2px solid red; */
   width: 20rem;
   height: 4.5rem;
   row-gap: 2px;
@@ -333,7 +326,6 @@ li:hover {
   margin-top: 10px;
   width: 8rem;
   padding-left: 8px;
-  /* border: 2px solid red; */
 }
 .desc div:nth-child(2) {
   font-family: "Roboto";
@@ -386,7 +378,6 @@ li:hover {
 }
 
 .section4 .Details {
-  /* border: 2px solid red; */
   margin-left: -1rem;
   width: 40vw;
 }
@@ -400,7 +391,6 @@ li:hover {
   font-size: 1.5rem;
 }
 .section4 img {
-  /* border: 2px solid red; */
   width: 40vw;
   height: 60vh;
   object-fit: cover;
@@ -440,7 +430,6 @@ li:hover {
   width: 90%;
   height: 5.5rem;
   margin: auto;
-  /* border: 2px solid red; */
   background-color: rgb(46, 44, 44);
   display: flex;
   flex-direction: column;
@@ -511,7 +500,6 @@ li:hover {
   width: 18rem;
   margin-left: 12%;
   font-size: 1rem;
-  /* border: 2px solid red; */
 }
 
 .section6 .title:nth-child(1) {
@@ -531,11 +519,9 @@ li:hover {
   display: grid;
   grid-template-columns: 13rem 13rem 13rem 13rem;
   grid-gap: 1rem 4rem;
-  /* border: 2px solid red; */
 }
 
 .section6 .links .title {
-  /* border: 2px solid red; */
   width: 13rem;
   height: 2rem;
   margin: 0;
@@ -548,7 +534,6 @@ li:hover {
   left: 12%;
   width: 8.2rem;
   margin-bottom: 1.2rem;
-  /* border: 2px solid red; */
 }
 
 .section6 .title a {
